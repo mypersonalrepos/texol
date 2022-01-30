@@ -1,0 +1,21 @@
+.marginset{
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.navgr{
+    background-color: aliceblue;
+}
+
+.row{
+    margin-left: 15px;
+}
+
+h2{
+    margin-left: 15px;
+}
+.anavi{
+    color: black;
+}
